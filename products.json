@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Coca Cola",
+      "category": "bebidas",
+      "description": "La mejor gaseosa."
+    },
+    {
+      "id": 2,
+      "name": "Agua Mineral",
+      "category": "bebidas",
+      "description": "Agua mineral natural."
+    },
+    {
+      "id": 3,
+      "name": "Café en Lata",
+      "category": "bebidas",
+      "description": "Café en Lata Japones."
+    }
+  ]
+  
